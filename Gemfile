@@ -16,3 +16,4 @@ end
 
 # App Gems
 gem 'monban'
+gem 'paperclip'
