@@ -1,5 +1,5 @@
 class Timeline
-  include ActiveModel::Conversion
+  include ActiveModel::Model
 
   def initialize(user)
     @user = user
