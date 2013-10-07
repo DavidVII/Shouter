@@ -17,3 +17,5 @@ end
 # App Gems
 gem 'monban'
 gem 'paperclip'
+gem 'sunspot_rails'
+gem 'sunspot_solr'
